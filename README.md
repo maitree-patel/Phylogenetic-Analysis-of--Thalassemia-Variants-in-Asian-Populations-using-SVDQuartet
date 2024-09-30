@@ -1,2 +1,3 @@
-# Phylogenetic-Analysis-of--Thalassemia-Variants-in-Asian-Populations-using-SVDQuartet
-Given a high prevalence in South-Asian populations and some information about common SNPs found in these regions I was interested in unraveling the phylogeny of β-thalassemia variants.
+# Phylogenetic-Analysis-of-Beta-Thalassemia-Variants-in-Asian-Populations-using-SVDQuartet
+
+Given a high prevalence in South-Asian populations and some information about common SNPs found in these regions I was interested in unraveling the phylogeny of β-thalassemia variants. In this study, I conducted a phylogenetic analysis of SNP data, i.e. variants from chromosome 11, as made available by the 1000 Genomes Project to understand the evolution of  variants found in the beta-globin gene region. The phylogenetic analysis was performed using SVDQuartets as a part of the PAUP package run through command line interface. SVDQuartet is a phylogenetic analysis method used for multi-locus or SNP data using a coalescent-based model.
