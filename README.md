@@ -45,7 +45,7 @@ As will be described below, the SVDQuartet tree was further visualized in FigTre
 
 *Figure 5*
 
-<img width="865" alt="Screenshot 2024-09-30 at 5 58 29 PM" src="https://github.com/user-attachments/assets/80d46495-92a4-4438-b54a-fda2e9fdb3f8">
+<img width="500" alt="Screenshot 2024-09-30 at 5 58 29 PM" src="https://github.com/user-attachments/assets/80d46495-92a4-4438-b54a-fda2e9fdb3f8">
 
 ## Discussion and Future Trends
 From the above phylogenetic analysis, it is evident that variants in the β-thalassemia regions are common in Asian populations selected here. Furthermore, the course of the analysis makes evident multiple loopholes in the study itself as caused by roadblocks in terms of data accessibility . The unavailability of data for Asian populations through literature as well as large-scale genomic databases limited the scope of the study to a large extent. He initial research question surrounding the phylogeny of β-thalassemia variants in the Indian subcontinent, an ethnically diverse group, would provide important evolutionary answers. The analysis of SNPs from individuals with β-thalassemia would additionally provide stronger data for interpretation of phylogeny. Other ways to improve the analysis includes a larger, more representative sample size of individuals from each population (or from one population). 
