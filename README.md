@@ -21,6 +21,6 @@ The total number of SNPs found in chromosome 11 was 2,807 and in the β-globin r
 
 As will be described below, the SVDQuartet tree was further visualized in FigTree v1.4.4 (15). It is a software used to view, visualize and annotate trees graphically. Two types of trees were visualized in the radial topology: i) by region and ii) by the presence of SNP in the β-globin region. This was done by manually color-coding sample branches in the tree based on the above two criteria. For the former criterion the populations from the same country or region were given the same color. Countries characterized as the South-East Asia region were visualized using warm colors whereas those that form South Asia were given cooler tones for better and broader construction of the relationships on the tree. The information about the presence or absence of SNP was analyzed from the genotype information in the VCF files in R using the vcfR package functions prior to annotating the tree based on the latter criteria.
 
-< img width="500" alt="https://github.com/user-attachments/assets/05b946e2-1e62-4039-8c86-6d65ffe09bdf">
+![Rtree_hbb](https://github.com/user-attachments/assets/6f4aeeae-e421-49cf-89b1-002f1e93ac48)
 
 
