@@ -21,6 +21,18 @@ The total number of SNPs found in chromosome 11 was 2,807 and in the β-globin r
 
 As will be described below, the SVDQuartet tree was further visualized in FigTree v1.4.4 (15). It is a software used to view, visualize and annotate trees graphically. Two types of trees were visualized in the radial topology: i) by region and ii) by the presence of SNP in the β-globin region. This was done by manually color-coding sample branches in the tree based on the above two criteria. For the former criterion the populations from the same country or region were given the same color. Countries characterized as the South-East Asia region were visualized using warm colors whereas those that form South Asia were given cooler tones for better and broader construction of the relationships on the tree. The information about the presence or absence of SNP was analyzed from the genotype information in the VCF files in R using the vcfR package functions prior to annotating the tree based on the latter criteria.
 
-<img src="https://github.com/user-attachments/assets/6f4aeeae-e421-49cf-89b1-002f1e93ac48" width="500">
+## Results
+Figure 2 shows the phylogenetic tree constructed using SNP data from chromosome 11. We can see a major clade consisting of South-East Asian populations (which includes the Chinese, Japanese and Vietnamese populations) and two major clades formed from South-Asian populations (Including Indian, Pakistani, Sri Lankan and Bangladeshi). This tree in itself does not provide enough information to interpret relationships between these samples. This is also true because rooting of the tree is not possible since they are all human samples and using another species as the root would translate to difference in the location of chromosome 11 and the β-globin genes along with the inconsistency in the characterisation of beta-globin gene variants that cause the disorder in that specie. Therefore, the tree was plotted in FigTree application to analyze trends within these major clades as described by the workflow above in section 2.4 Tree Construction using SVDQuartet. 
+
+*Figure 2*
+
+<img src="https://github.com/user-attachments/assets/6f4aeeae-e421-49cf-89b1-002f1e93ac48" width="550">
+
+Figure 3 visualizes the phylogenetic tree based on regions of the populations of the samples. We can interpret the same as described from Figure 2 in better clarity and confidence using a radial tree. We can broadly see that most individuals from the South-East Asian populations that include Chinese, Japanese and Vietnamese samples cluster together on the top of the tree. And the South Asian Populations of Indian, Pakistani, Sri Lankan and Bangladeshi samples mostly cluster towards the end. These clusters are expected to be genetically similar given their histories of partition and geographic proximity. This can be due to higher degree of immigration between the populations (Peter et al., 2019) and shared ancestry. A study published in Nature analyzed SNPs from European populations and performed a Principal Component Analysis to find that populations found together on the map clustered closer together on the PCA plot (Novembre et al., 2008) which might also be the reason for clustering of populations in certain clades in Figure 3.
+
+*Figure 3*
+<img width="700" alt="Screenshot 2024-09-30 at 5 56 02 PM" src="https://github.com/user-attachments/assets/f6384250-53c0-49e9-857a-8971532ee981">
+
+
 
 
